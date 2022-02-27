@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter or declaration, sent from the King of Scots, to the Marquess of Ormond: concerning his agreement with the Scots; and his speciall command to the said Marquess for publishing the same to the Irish: with his protestation touching his former grants. Sent by an express to the city of Paris, to be forthwith printed. Whereunto is annexed; a narrative from Portugal, touching Prince Rupert's designe, to have fired the Parliaments shipping; the manner thereof, the discovery, and a fight that happened on shore, between Prince Rupert and Gen: Blague's men.</title>
+            <author>Lathbury, Thomas, fl. 1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88779</idno>
+            <idno type="STC">Wing L571</idno>
+            <idno type="STC">Thomason E602_25</idno>
+            <idno type="STC">ESTC R202779</idno>
+            <idno type="EEBO-CITATION">99862958</idno>
+            <idno type="PROQUEST">99862958</idno>
+            <idno type="VID">165645</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165645)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter or declaration, sent from the King of Scots, to the Marquess of Ormond: concerning his agreement with the Scots; and his speciall command to the said Marquess for publishing the same to the Irish: with his protestation touching his former grants. Sent by an express to the city of Paris, to be forthwith printed. Whereunto is annexed; a narrative from Portugal, touching Prince Rupert's designe, to have fired the Parliaments shipping; the manner thereof, the discovery, and a fight that happened on shore, between Prince Rupert and Gen: Blague's men.</title>
+                  <author>Lathbury, Thomas, fl. 1650.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Orton, and are to be sold at the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Primarily a commentary by Thomas Lathbury, who signs on A4r, on Charles II's declaration, which is reported in the third person.</note>
+                  <note>Annotation on Thomason copy: "June 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165645:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>A LETTER OR DECLARATION, SENT From the KING of SCOTS, <hi>TO</hi> The Marqueſs of Ormond: Concerning his Agreement with the <hi>Scots;</hi> And his ſpeciall com<g ref="char:EOLhyphen"/>mand to the ſaid Marqueſs for publiſhing the ſame to the <hi>Iriſh:</hi> With his proteſtation touching his former Grants.</p>
+            <p>Sent by an Expreſs to the City of <hi>Paris,</hi> to be forthwith printed.</p>
+            <p>Whereunto is annexed; A Narrative from Portugal, touching Prince <hi>Rupert's</hi> deſigne, to have fired the Parliaments ſhipping; the manner thereof, the diſcovery, and a fight that happened on ſhore, between Prince <hi>Rupert</hi> and Gen: <hi>Blague's</hi> men.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Orton,</hi> and are to be ſold at the <hi>Royall-Exchange.</hi> 1650. <add>June 6</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165645:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb n="1" facs="tcp:165645:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>A Letter or Declaration, ſent from the declared King of Scotland, to the Marqueſs of <hi>Ormond;</hi> touching his Agreement with the <hi>Scots.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Here liberty is, if great men be Magiſtrates they are hatefull to the people, being not ſenſible that they are banks reared, which though they hinder the ſight, yet with<g ref="char:EOLhyphen"/>ſtand inundations; therefore to ruine a Kingdom by force, is a dangerous undertaking: Good reſolutions are ſeldome taken altogether; in all things dangers do appear, and to ſecure our ſelves from e<g ref="char:EOLhyphen"/>vill, good is done by halfs; and the half of that good is not good, which conſiſting in the whole admits of no diviſion. To reverſe things now irrepairable, and which cannot be diverted, is a labour without profit; but there ought a remedy to be had, for the appear<g ref="char:EOLhyphen"/>ing danger. Injuries received, tend to the ruin of men, who with the zeal of honour do not accompany wiſ<g ref="char:EOLhyphen"/>dome; they run upon revenge for paſt-wrongs, and
+<pb n="2" facs="tcp:165645:3"/>
+               <!-- PDF PAGE 52 -->throw themſelves head-long upon new miſeries; they would amend one errour, and produce a thouſand. Too much haſte is as much before time, as too much delay is out of time: Errours of impatience, are worſe then errours of delay; for it is better to ſhun precipi<g ref="char:EOLhyphen"/>ces then to run upon them: if they be not hindred, they are retarded. Juſtice is not believed to be there, where violence is obſerved to be; nor can it be ac<g ref="char:EOLhyphen"/>counted wiſdom where there is no augmentation. Augmentation is not had in an inſtant, time is not meaſured by inſtants: Wiſdom is the daughter of cold, violence of heat; things which have not been done in times paſt, may well be effected in times to come, but things already done, cannot be undone a<g ref="char:EOLhyphen"/>gain: occaſions are never wanting to men, but men are wanting to occaſions. And he who ſighs, egged on by fury, begins his war for having loſt; he ſatisfies his affection not his duty, and is ſooner beaten by his own weakneſs then anothers valour. Our forbearance is to be ſerved, not deſpiſed; the world is his who hath patience when it proceeds from ſagacity, not ti<g ref="char:EOLhyphen"/>midity. Generous ſpirits addreſſe themſelves to en<g ref="char:EOLhyphen"/>dure preſent injuries, out of hope of future revenge; they reprove their anger to vindicate offences, not to evaporate paſſion. Diſſimulation is not to be blamed, when by the injury of time it is not transformed into oblivion; diſſimulation is never worſe then when it becoms forgetfulneſs; never better, then when it re<g ref="char:EOLhyphen"/>ſembles it. All induſtry ought to be uſed, to have peace with a people, who can never have a worſer war, then peace: fair pretences are not wanting to cloak our re<g ref="char:EOLhyphen"/>ceived injuries; and many great Statiſts have ſelf-in<g ref="char:EOLhyphen"/>tereſt for the ſphere of their actions. It was the ſaying
+<pb n="3" facs="tcp:165645:3"/>
+               <!-- PDF PAGE 52 -->of a great Roman, that a Princes death (though vio<g ref="char:EOLhyphen"/>lent) if his whole race ceaſe in him, is no impediment to the good government of him that ſucceeds, if he be not a cauſe thereof himſelf, through his bad go<g ref="char:EOLhyphen"/>vernment: where there is none of the blood, there is no head; where there is no head, people do but mur<g ref="char:EOLhyphen"/>mur, they take no reſolution; the greateſt provoca<g ref="char:EOLhyphen"/>tions to revenge, are either neceſſity, or profit. And it was likewiſe the ſaying of one of the Patriarks, that he who hath won a kingdome by the ſword, if he lay not down the ſword, the ſword will lay down him; and that, that Magiſtrate is not wiſe, that maketh uſe of the ſame means to govern a State, which he did to poſſeſſe himſelf thereof: and that power is not wor<g ref="char:EOLhyphen"/>thy to be obeyed, who uſeth not the means to be be<g ref="char:EOLhyphen"/>loved. But it is not now with <hi>England</hi> as it hath been formerly with other Nations, who after an inteſtine War, and differences compoſed, enjoyed future peace, by disbanding their Armies, and ſheathing the ſword, having no enemies abroad to diſturb or moleſt them: But ſo numerous are the Enemies of the Engliſh Communalty, who act and conſpire in ſeveral parts, now to make an inroad for the involving of her in new troubles, and taking revenge for by-paſt actions; that there is great reaſon a defenſive power ſhould be kept on foot, for the ſafety and preſervation of its peace and liberty, from forreigners threats and fury.</p>
+            <p>But (Sir) fearing I have been too tedious in the fore-going circumſtances, I ſhall now proceed to the ſubject of my intelligence, repreſenting ſuch occur<g ref="char:EOLhyphen"/>rences as have reference to my Native Country <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> The Treaty here being ended, the declared King of <hi>Scots</hi> diſpatched a letter to the Marqueſs of <hi>Ormond,</hi> wherein he declared;</p>
+            <p>
+               <pb n="4" facs="tcp:165645:4"/>
+               <!-- PDF PAGE 53 -->
+That what he had done as to his Agreement with the Scots, he had done it out of meer ne<g ref="char:EOLhyphen"/>ceſſity, for preſerving to his obedience the king<g ref="char:EOLhyphen"/>dom of Scotland; and that it had no ways dimi<g ref="char:EOLhyphen"/>niſhed his good affection to the Iriſh Catho<g ref="char:EOLhyphen"/>liques, and the reſt of his party; and that as he had abſolutely refuſed to give way to any thing that ſhould tend to their prejudice, ſo he would ſtill adhere to them, as relying altogether upon their true and faithfull affection (under the judi<g ref="char:EOLhyphen"/>tious conduct of him) incomparably more then upon any; either Engliſh, or Scottiſh. And to the end that the true ſenſe of his condeſcenſions might be imparted unto them, he conjur'd him to declare this his will and pleaſure, to all his Roman Catholiques in that Kingdom; (viz.) That he will never diminiſh or recall any of his Grants [formerly] made unto them, but aug<g ref="char:EOLhyphen"/>ment them, in all things that may redound to their liberty and ſafety, &amp;c.</p>
+            <p>The particulars of this Declaration, I received from a very good hand, who juſtified, that he was an eye<g ref="char:EOLhyphen"/>witneſs of the ſigning the ſaid Letter; and withall, that expreſs command was given, that a Copy of the ſaid Letter ſhould be forthwith ſent to Doctour <hi>Tyrrell</hi> [the <hi>Iriſh</hi> Agent at <hi>Paris</hi>] authorizing him to print a hundred Copies, to diſperſe amongſt thoſe of
+<pb n="5" facs="tcp:165645:4"/>
+               <!-- PDF PAGE 53 -->his loyall ſubjects whom he could confide in, and that had an intereſt, for the carrying on of the work in <hi>Ireland.</hi> Theſe paſſages are very ill reſented, and in all probability (as many conjecture) the <hi>Scots</hi> will finde the ſad event thereof when once he gets into the Sad<g ref="char:EOLhyphen"/>dle; which cauſeth this expreſſion from many, that they never deſire to ſee him ſet footing within thoſe territories: And indeed it is the deſire of many others (on the contrary part) likewiſe. Thus runs the cur<g ref="char:EOLhyphen"/>rent of ſeverall ſorts of people; but for my part, I deſire nothing more, then to ſee the Land of my Na<g ref="char:EOLhyphen"/>tivity, flouriſh in peace and tranquility: Which is the humble ſupplication of him, who remains</p>
+            <closer>
+               <dateline>Breda,
+<date>May 29. 1650.</date>
+               </dateline>
+               <signed>Your unfeigned friend,
+<hi>Tho: Lathbury.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AT the cloſure of my precedent lines, here arrived an expreſs from <hi>Portugal,</hi> intimating; That Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> had lately ſtudied a notable ſtratagem, for the firing of the Engliſh ſhipping, the manner thus: Two <hi>Portugall</hi> Negroës, and three Engliſh Artificers, undertook the work, who in the night time had prepared a Long-boat with Gra<g ref="char:EOLhyphen"/>nado ſhels, fild with wilde-fire and other materials, to fire the Vice-Admirall and <hi>Bone-adventure;</hi> and towards
+<pb n="6" facs="tcp:165645:5"/>
+               <!-- PDF PAGE 54 -->break of day, coming near to the ſtern of the ſaid ſhips, to execute the ſame, miraculouſly they were diſcovered, and being ſeized on, confeſſed, that their aim and intent was to fire the ſaid ſhips, and that they were hired by Prince <hi>Rupert</hi> for the performance thereof. But no ſooner was the Plot diſcovered, but immediately Prince <hi>Rupert</hi> (being almost mad with rage that his plot had miſcarried) fell up<g ref="char:EOLhyphen"/>on ſome of the Parliaments men, that were then aſhore pro<g ref="char:EOLhyphen"/>viding freſh water, killed three, and took four priſoners. But it's believed, that theſe ſcores will be ſuddainly made even; for we hear that General <hi>Popham</hi> is joyned with Ge<g ref="char:EOLhyphen"/>neral <hi>Blague,</hi> with ten of the Parliament of <hi>Englands</hi> ſhips, and that the ſaid General <hi>Blague</hi> hath weighed anchor, and ſailed from the Bay of <hi>Weres,</hi> to <hi>Caſſia's</hi> road, to try whe<g ref="char:EOLhyphen"/>ther the King of <hi>Portugal</hi> will order Prince <hi>Rupert</hi> to put to ſea: Which by my next, I doubt not but to give you a more particular account of; in the interim, nothing more, but the affectionate ſubſcription of him, who remains</p>
+            <closer>
+               <dateline>Breda,
+<date>May 29. 1650.</date>
+               </dateline>
+               <signed>Yours:
+T. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
